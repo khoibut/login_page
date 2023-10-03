@@ -10,4 +10,6 @@ function startAnim(){
         }
     }, 1);
 }
-document.addEventListener("load",startAnim())
+setTimeout(() => {
+    document.addEventListener("load",startAnim())
+}, 300);
