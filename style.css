@@ -112,3 +112,7 @@ label{
     z-index: 1;
     overflow:hidden;
 }
+span{
+    font-size: 0.75vw;
+    color:rgb(255, 152, 152)
+}
